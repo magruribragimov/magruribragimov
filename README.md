@@ -19,37 +19,39 @@ I'm especially interested in combining software engineering with AI to turn idea
 
 ---
 
-<details>
-<summary><strong>Tech & Tools</strong></summary>
+## Tech & Tools
 
-### Languages
+### Languages & Development
 
-`Python` · `JavaScript` · `SQL` · `HTML` · `CSS`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+</p>
 
 ### Web & Backend
 
-`Flask` · `Bootstrap` · `REST APIs`
-
-### Databases & Backend Services
-
-`PostgreSQL` · `Supabase` · `Firebase`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap,postgres,supabase,firebase" />
+</p>
 
 ### AI & Automation
 
-`OpenAI` · `Gemini` · `Claude` · `n8n` · `Make`
+<p align="left">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+</p>
 
-### Design
+### Design & Tools
 
-`Figma` · `Canva`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,git,github" />
+</p>
 
-### Tools
+---
 
-`Git` · `GitHub`
-
-</details>
-
-<details>
-<summary><strong>Currently Building</strong></summary>
+## Currently Building
 
 I'm currently focused on building a portfolio of practical AI and software projects, including:
 
@@ -61,10 +63,9 @@ I'm currently focused on building a portfolio of practical AI and software proje
 
 My goal is to build projects that are not only technically interesting, but also solve real problems and could become useful products.
 
-</details>
+---
 
-<details>
-<summary><strong>How I Work</strong></summary>
+## How I Work
 
 I learn by **building real things**.
 
@@ -72,10 +73,9 @@ Rather than learning technologies in isolation, I prefer taking an idea, underst
 
 I'm also actively exploring how modern AI coding tools can accelerate development while keeping engineering decisions, architecture, and product thinking human-driven.
 
-</details>
+---
 
-<details>
-<summary><strong>Currently Learning</strong></summary>
+## Currently Learning
 
 - Advanced backend development
 - AI agent architecture
@@ -84,16 +84,15 @@ I'm also actively exploring how modern AI coding tools can accelerate developmen
 - Deployment & DevOps
 - Open-source development
 
-</details>
+---
 
-<details>
-<summary><strong>Selected Projects</strong></summary>
+## Selected Projects
 
 More projects are coming as I continue building and experimenting.
 
 Some of my existing work includes:
 
-- **Speech-to-Text AI Powered App** — Python Flask + JavaScript
+- **[Voice AI Assistant](https://github.com/magruribragimov/voice-ai-assistant)** — A browser-based voice AI assistant built with Flask, JavaScript, and Gemini.
 - **Blog Web Application** — Flask
 - **Weather Web Application** — Flask
 - **FileChanger** — Flask + JavaScript
@@ -102,10 +101,9 @@ Some of my existing work includes:
 
 I'm currently working toward replacing these older projects with more advanced AI, backend, automation, and product-focused projects.
 
-</details>
+---
 
-<details>
-<summary><strong>Open Source</strong></summary>
+## Open Source
 
 I'm interested in becoming an active open-source contributor and eventually maintaining my own projects.
 
@@ -113,24 +111,32 @@ I'm particularly interested in projects related to:
 
 **AI · Developer Tools · Automation · Backend · Open Source**
 
-</details>
+---
 
-<details>
-<summary><strong>Long-Term Vision</strong></summary>
+## Long-Term Vision
 
 My long-term goal is to build software products and eventually create my own technology company.
 
 For now, I'm focused on becoming a stronger engineer, building useful products, developing an international professional presence, and turning ideas into real software.
 
-</details>
-
 ---
 
-## Connect
+## Let's Connect
 
-- **LinkedIn:** [Mag'rur Ibragimov](https://www.linkedin.com/in/mag-rur-ibragimov-a01ba63ab/)
-- **X:** [@magruribragimov](https://x.com/magruribragimov)
-- **Telegram:** [@Magrur_Ibragimov](https://t.me/Magrur_Ibragimov)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mag-rur-ibragimov-a01ba63ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/magruribragimov">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://t.me/Magrur_Ibragimov">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ibrg1mv/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
