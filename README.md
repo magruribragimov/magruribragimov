@@ -124,7 +124,7 @@ For now, I'm focused on becoming a stronger engineer, building useful products, 
 ## Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mag-rur-ibragimov-a01ba63ab/">
+  <a href="https://www.linkedin.com/in/magruribragimov/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/magruribragimov">
